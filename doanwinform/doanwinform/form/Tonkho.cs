@@ -16,5 +16,10 @@ namespace doanwinform.form
         {
             InitializeComponent();
         }
+
+        private void Tonkho_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
